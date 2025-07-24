@@ -1,3 +1,4 @@
 ### JadeLow
 # 狱楼
-<video src="./show.mp4" autoplay="true" controls="controls" width="800" height="600"></video>
+![show-71c0d6a3e6f3ea44093efe37d54981a9.gif](https://t.tutu.to/img/7yBHM)
+https://t.tutu.to/img/7yBHM
