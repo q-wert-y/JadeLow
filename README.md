@@ -11,3 +11,21 @@ https://tutu.to/image/D69m4
 
 
 #### using RPG Marker VX Ace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### ad:Want to try a minecraft server?see here https://q-wert-y.github.io/blocube/     now a bingo world on!
