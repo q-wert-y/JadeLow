@@ -1,7 +1,7 @@
 ### JadeLow
 ## 狱楼
 
-#通用下载链接：https://github.com/q-wert-y/JadeLow/releases/download/v1.1.1/JadeLow.exe
+# 通用下载链接：https://github.com/q-wert-y/JadeLow/releases/download/v1.1.1/JadeLow.exe
 
 ![show-71c0d6a3e6f3ea44093efe37d54981a9.gif](https://t.tutu.to/img/D69m4)
 
