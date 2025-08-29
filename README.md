@@ -13,7 +13,7 @@ https://tutu.to/image/D69m4
 #### using RPG Marker VX Ace
 
 字体：Des-Magmeta/ChildFunSans（游趣体）
-
+脚本：tomoaky/RGSS3_视界制限
 
 
 
