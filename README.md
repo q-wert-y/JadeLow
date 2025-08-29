@@ -12,6 +12,8 @@ https://tutu.to/image/D69m4
 
 #### using RPG Marker VX Ace
 
+字体：Des-Magmeta/ChildFunSans（游趣体）
+
 
 
 
