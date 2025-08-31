@@ -14,20 +14,3 @@ https://tutu.to/image/D69m4
 
 字体：Des-Magmeta/ChildFunSans（游趣体）
 脚本：tomoaky/RGSS3_视界制限
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### ad:Want to try a minecraft server?see here https://q-wert-y.github.io/blocube/     now a bingo world on!
